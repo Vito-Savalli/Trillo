@@ -12,7 +12,7 @@ Course : [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://ww
 
 Course detail : 28h video course on advanced CSS and CSS preprocessor concepts, responsive grid, flexbox and animations.
 
-[Certification](https://www.udemy.com/certificate/UC-d511f016-19b0-4765-a29e-f30507d528d0/)
+[Certification.](https://www.udemy.com/certificate/UC-d511f016-19b0-4765-a29e-f30507d528d0/)
 
 ## Let's Connect !
 
